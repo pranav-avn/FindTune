@@ -3,4 +3,4 @@ Music Suggestion App
 
 coded on Python, GUI using tkinter
 
-script for source_master MySQL DB will be updated shortly
+You can add more songs to the Source.csv file and run the csvimp.py file to import the songs into the Source_master table required by FindTune.
